@@ -1,11 +1,7 @@
 #!/usr/bin/env bash
 
 # http://minexmr.com
-# /var/lib/cloud/instance/scripts/part-001
 
-# <a href="https://dply.co/b/W2Fcb5Yf"><img src="https://dply.co/b.svg"/></a>
-# [][![Dply](https://dply.co/b.svg)](https://dply.co/b/W2Fcb5Yf) 
-# https://dply.co/b/W2Fcb5Yf
 
 yum -y groupinstall "Development Tools"
 rpm --import http://download.fedoraproject.org/pub/epel/RPM-GPG-KEY-EPEL-7 
